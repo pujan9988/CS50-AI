@@ -2,7 +2,7 @@
 
 Welcome to the **News Recommendation System** project taught during **Week 5, Day 1 of CS50x AI** with **CS50x Nepal**.
 
-In this hands-on session, Practical applications of AI is taught and implemented a simple content-based **Recommendation System** using fundamental Natural Language Processing (NLP) techniques.
+In this hands-on session, students learned about practical applications of AI and implemented a simple content-based **Recommendation System** using fundamental Natural Language Processing (NLP) techniques.
 
 👉 [Visit CS50x Nepal](https://cs50xnepal.ioepc.edu.np/)
 
@@ -28,9 +28,18 @@ We used a dataset of shared articles and went through the complete cycle from ra
 
 ---
 
+## Files 
+
+* `new.ipynb`: Complete prototype notebook project code including preprocessing, visualization, and recommendation system logic.
+* `gui.py`: GUI implementation using streamlit.
+  [Website implementation link](https://pujanpaudel-news-recommendation-system.hf.space)
+
+
+---
+
 ## Dataset Summary
 
-The original dataset includes articles shared by users. It contains various metadata fields such as:
+The original dataset includes articles shared by users. It contains various metadata fields, the main usesful ones are:
 
 * `title`: Title of the article
 * `text`: Full article content
@@ -97,7 +106,7 @@ Top 3 recommendations:
 
 ---
 
-## Learning Outcome
+##  Learning Outcome
 
 Students learned how AI powers real-world systems like news and product recommendations using simple yet powerful techniques.
 
@@ -112,6 +121,4 @@ CS50x AI Instructor, CS50x Nepal
 
 ---
 
-> "AI isn't a magic. It's just math, models, and a lot of data"
-
-Happy Coding! 🧠💻
+> "AI isn't a magic. It's just math, models, and a lot of data."
