@@ -116,7 +116,7 @@ This project showed that even without deep neural networks, **smart preprocessin
 
 ## Taught by
 
-**Pujan Paudel**
+**[Pujan Paudel](https://www.linkedin.com/posts/pujanpaudel_ai-recommendationsystems-cs50xnepal-activity-7286786671897960448-Dm89)**
 CS50x AI Instructor, CS50x Nepal
 
 ---
